@@ -3,6 +3,8 @@ dna
 
 *read the code that makes an orta*
 
+![fuck yeh helix time baby](http://ortatherox.com/helix.jpg "DNS Helix")
+
 I find it fascinating that you can get a text file, roughly 25meg big that contains what I'd imagine to be terabtyes worth of data, it's certainly millions of years of progress, but yet can be transferred to your computer in a matter of seconds. Maybe at some point in the future bad things could happen because of this. But it's worth it for this one simple line.
 
 **git clone git@github.com:orta/dna.git**
