@@ -15,3 +15,4 @@ Inside is a text version of my DNA. Fields are TAB-separated. Each line correspo
 
 It is built using reference human assembly [build 36](http://www.ncbi.nlm.nih.gov/projects/mapview/map_search.cgi?taxid=9606&build=36).
 
+Released under Creative Commons Attribution
